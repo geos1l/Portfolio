@@ -28,12 +28,12 @@ export default function Hero() {
         <p className="text-sm text-[var(--fg-muted)]">
           — currently building{" "}
           <a
-            href="https://github.com/geos1l/Clive"
+            href="https://qbarlive.com"
             target="_blank"
             rel="noopener noreferrer"
             className="underline underline-offset-4 hover:text-[var(--fg)] transition-colors"
           >
-            clive
+            qbarlive
           </a>
         </p>
 
